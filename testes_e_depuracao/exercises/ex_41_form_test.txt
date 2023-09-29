@@ -1,0 +1,7 @@
+Ex 41: Testes de formulário
+
+● Crie um formulário com um botão de envio;
+
+● Crie um teste que verifica se a submissão do formulário funciona corretamente;
+
+● O teste deve preencher o input com um texto, e verificar se o texto está presente;

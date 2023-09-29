@@ -1,5 +1,6 @@
 import './App.css'
-import Button from './components/Button/Button';
+import Button from './components/Button/ButtonComponent';
+import Form from './components/Form/FormComponent';
 import Greeting from './components/Greeting/GreetingComponent';
 
 function App() {
@@ -17,6 +18,12 @@ function App() {
       <div style={style_data_div[0]} data-div>
         <h2>2 - Testes simulação de evento</h2>
         <Button />
+      </div>
+
+      {/* 3 - form tests */}
+      <div style={style_data_div[0]} data-div>
+        <h2>3 - Testes de formulário</h2>
+        <Form />
       </div>
     </>
   );
