@@ -1,0 +1,7 @@
+Ex 40: Testes simulação de evento
+
+● Crie um componente com um botão;
+
+● Ele deve mudar o texto quando clicado;
+
+● O teste deve verificar se o texto foi alterado;
