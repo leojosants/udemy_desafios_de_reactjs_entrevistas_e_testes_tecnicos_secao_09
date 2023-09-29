@@ -1,0 +1,7 @@
+Ex 39: Testes em componente
+
+● Crie um componente;
+
+● Crie um teste simples para o mesmo;
+
+● Utilize React Testing Library;
